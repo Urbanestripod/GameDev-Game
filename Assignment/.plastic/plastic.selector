@@ -1,0 +1,4 @@
+repository "Assignment@GameDev_Course@cloud"
+  path "/"
+    br "/main"
+    co "/main"
